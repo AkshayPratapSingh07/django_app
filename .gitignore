@@ -15,6 +15,7 @@ db.sqlite3
 .env
 .env.local
 
+
 # Ignore virtual environments
 venv/
 .virtualenv/
